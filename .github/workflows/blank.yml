@@ -1,0 +1,3 @@
+int add(string numbers) {
+    return 0;  // simplest implementation
+}
